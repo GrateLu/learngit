@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Creating a new branch is quick.
 
@@ -15,3 +15,7 @@ git commit -m "代码提交信息"
 
 不识别中文
 Non recognition of Chinese
+
+
+----2017-05-11 好久没用过git了，距离上次使用已经过去5个月了
+不过后面会坚持至少每周都是用到的
